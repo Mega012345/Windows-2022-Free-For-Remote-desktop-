@@ -1,4 +1,5 @@
-# RDP Windows Server 2019 ✨
+# RDP Windows Server 2019 Free for android
+ 
 
 **Windows Server 2019 with 2cpu-7gb Ram FREE with Github with RDP Access (ngrok US)**
 
@@ -12,7 +13,7 @@
 + Reload the page and press **NetSlutter> build**
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
-## Warning
+## Warning 
 
-This is only for educational purposes,
-don't use it for mining or anything illegal because you accept the consequences!
+
+
